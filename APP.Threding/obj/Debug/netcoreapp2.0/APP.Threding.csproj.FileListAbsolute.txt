@@ -1,0 +1,11 @@
+C:\Users\logonrmlocal\Documents\LIB.BoasPraticas\APP.Threding\bin\Debug\netcoreapp2.0\APP.Threding.deps.json
+C:\Users\logonrmlocal\Documents\LIB.BoasPraticas\APP.Threding\bin\Debug\netcoreapp2.0\APP.Threding.runtimeconfig.json
+C:\Users\logonrmlocal\Documents\LIB.BoasPraticas\APP.Threding\bin\Debug\netcoreapp2.0\APP.Threding.runtimeconfig.dev.json
+C:\Users\logonrmlocal\Documents\LIB.BoasPraticas\APP.Threding\bin\Debug\netcoreapp2.0\APP.Threding.dll
+C:\Users\logonrmlocal\Documents\LIB.BoasPraticas\APP.Threding\bin\Debug\netcoreapp2.0\APP.Threding.pdb
+C:\Users\logonrmlocal\Documents\LIB.BoasPraticas\APP.Threding\obj\Debug\netcoreapp2.0\APP.Threding.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\Documents\LIB.BoasPraticas\APP.Threding\obj\Debug\netcoreapp2.0\APP.Threding.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Documents\LIB.BoasPraticas\APP.Threding\obj\Debug\netcoreapp2.0\APP.Threding.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Documents\LIB.BoasPraticas\APP.Threding\obj\Debug\netcoreapp2.0\APP.Threding.AssemblyInfo.cs
+C:\Users\logonrmlocal\Documents\LIB.BoasPraticas\APP.Threding\obj\Debug\netcoreapp2.0\APP.Threding.dll
+C:\Users\logonrmlocal\Documents\LIB.BoasPraticas\APP.Threding\obj\Debug\netcoreapp2.0\APP.Threding.pdb
